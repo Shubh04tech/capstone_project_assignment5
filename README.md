@@ -1,5 +1,5 @@
 Capstone Project:– Assignment 5 (Linux OS and LSP)
-Bash Scripting Suite for System Maintenance
+Bash Scripting Suite for System Maintenance 
 
 This document contains the complete solution for Assignment 5, which focuses on Linux Operating Systems and Bash Scripting Practice (LSP). It presents a suite of Bash scripts designed to automate essential system maintenance operations. The assignment includes detailed code implementations along with structured tasks.
 
