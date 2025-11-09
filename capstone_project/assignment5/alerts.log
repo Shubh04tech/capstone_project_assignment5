@@ -1,0 +1,28 @@
+2025-11-09T07:16:03.368369+00:00 DESKTOP-3MT8ON4 systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-09T07:16:03.368373+00:00 DESKTOP-3MT8ON4 systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-09T07:16:03.369429+00:00 DESKTOP-3MT8ON4 kernel: Failed to register legacy timer interrupt
+2025-11-09T07:16:03.369580+00:00 DESKTOP-3MT8ON4 kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+2025-11-09T07:16:03.369822+00:00 DESKTOP-3MT8ON4 kernel: RAS: Correctable Errors collector initialized.
+2025-11-09T07:16:03.369952+00:00 DESKTOP-3MT8ON4 kernel: WSL (215) ERROR: CheckConnection: getaddrinfo() failed: -5
+2025-11-09T07:16:03.369958+00:00 DESKTOP-3MT8ON4 kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2025-11-09T07:16:03.369958+00:00 DESKTOP-3MT8ON4 kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2025-11-09T07:16:03.369964+00:00 DESKTOP-3MT8ON4 kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2025-11-09T07:16:03.369974+00:00 DESKTOP-3MT8ON4 kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2025-11-09T07:16:03.370023+00:00 DESKTOP-3MT8ON4 kernel: Failed to connect to bus: No such file or directory
+2025-11-09T07:16:03.491277+00:00 DESKTOP-3MT8ON4 snapd[187]: helpers.go:159: error trying to compare the snap system key: system-key missing on disk
+2025-11-09T07:20:28.157657+00:00 DESKTOP-3MT8ON4 kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2025-11-09T07:20:28.157658+00:00 DESKTOP-3MT8ON4 kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2025-11-09T07:20:28.157660+00:00 DESKTOP-3MT8ON4 kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2025-11-09T07:20:28.157664+00:00 DESKTOP-3MT8ON4 kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2025-11-09T07:20:28.157824+00:00 DESKTOP-3MT8ON4 systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-09T07:20:28.157829+00:00 DESKTOP-3MT8ON4 systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-09T07:25:57.136130+00:00 DESKTOP-3MT8ON4 kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2025-11-09T07:25:57.136131+00:00 DESKTOP-3MT8ON4 kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2025-11-09T07:25:57.136137+00:00 DESKTOP-3MT8ON4 kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2025-11-09T07:25:57.136139+00:00 DESKTOP-3MT8ON4 kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2025-11-09T07:25:57.136755+00:00 DESKTOP-3MT8ON4 systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-09T07:25:57.136801+00:00 DESKTOP-3MT8ON4 systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2025-11-09T07:30:34.448776+00:00 DESKTOP-3MT8ON4 python3[409]: ["2025-11-09T07:30:34.448", "WARNING", "ubuntupro.system", "get_kernel_info", 166, "failed to process /proc/version_signature.", {}]
+2025-11-09T07:30:34.451618+00:00 DESKTOP-3MT8ON4 python3[409]: ["2025-11-09T07:30:34.451", "WARNING", "ubuntupro.system", "get_kernel_info", 175, "Failed to parse kernel: 6.6.87.2-microsoft-standard-WSL2", {}]
+2025-11-09T07:31:49.929520+00:00 DESKTOP-3MT8ON4 wsl-pro-service[2075]: #033[33mWARNING#033[0m Could not ensure valid Landscape configuration: could not ensure valid Landscape configuration: could not register distro to Landscape: could not enable Landscape: /usr/bin/landscape-config: error: exit status 2.
+2025-11-09T07:31:49.929797+00:00 DESKTOP-3MT8ON4 wsl-pro-service[2075]: landscape-config: error: no such option: --register-if-needed
